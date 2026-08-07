@@ -8,9 +8,9 @@
 
 </div>
 
-<table width="100%" border="1" cellpadding="10">
+<table width="100%" border="1" cellpadding="12" cellspacing="0" style="border:3px double #8B7355;">
 <tr>
-<td width="62%" valign="top">
+<td width="62%" valign="top" style="border:3px double #8B7355;">
 
 #### 📖 About
 Cybersecurity student focused on building secure backend systems, writing clean Python/FastAPI code, and working in Linux environments.
@@ -23,7 +23,7 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 **🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Open-source security research, offensive tooling, defensive utilities, and resources.
 
 </td>
-<td width="38%" valign="top">
+<td width="38%" valign="top" style="border:3px double #8B7355;">
 
 #### ⚙️ Stack
 <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,linux,git,docker&perline=3" alt="Tech Stack" />
@@ -35,17 +35,16 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 
 </td>
 </tr>
-</table>
-
-<table width="100%" border="1" cellpadding="10">
-<tr><td align="center">
+<tr>
+<td colspan="2" align="center" style="border:3px double #8B7355;">
 
 #### ✉️ Let's Talk
 <a href="mailto:karlowsmorris@gmail.com"><img src="https://img.shields.io/badge/Email-8B7355?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/KarlowsMorris"><img src="https://img.shields.io/badge/GitHub-8B7355?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://karlowsmorris.dev"><img src="https://img.shields.io/badge/Portfolio-8B7355?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <div align="center">
