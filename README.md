@@ -7,52 +7,31 @@
 **Building thoughtful software, one repository at a time.**
 
 </div>
-<br/>
-<table width="100%">
-<tr>
-<td width="64%" valign="top">
 
 <table width="100%" border="1" cellpadding="10">
-<tr><td>
+<tr>
+<td width="62%" valign="top">
 
 #### 📖 About
 Cybersecurity student focused on building secure backend systems, writing clean Python/FastAPI code, and working in Linux environments.
 
-</td></tr>
-</table>
-
-<table width="100%" border="1" cellpadding="10">
-<tr><td>
+---
 
 #### 🧑‍🤝‍🧑 Organizations
 **📦 [Projects ↗](https://github.com/Projects)** — Building modern open-source software, backend systems, and developer tools.
 
 **🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Open-source security research, offensive tooling, defensive utilities, and resources.
 
-</td></tr>
-</table>
-
 </td>
-<td width="2%"></td>
-<td width="34%" valign="top">
-
-<table width="100%" border="1" cellpadding="10">
-<tr><td>
+<td width="38%" valign="top">
 
 #### ⚙️ Stack
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,linux,git,docker&perline=3" width="100%" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,linux,git,docker&perline=3" alt="Tech Stack" />
 
-</td></tr>
-</table>
-
-<table width="100%" border="1" cellpadding="10">
-<tr><td>
+---
 
 #### 🔥 Streak
-<img src="https://streak-stats.demolab.com?user=KarlowsMorris&hide_border=true&theme=transparent&ring=8B7355&fire=8B7355&currStreakLabel=CFC5B5&currStreakNum=CFC5B5&sideLabels=CFC5B5&dates=8F8578" alt="GitHub Streak" width="100%" />
-
-</td></tr>
-</table>
+<img src="https://streak-stats.demolab.com?user=KarlowsMorris&hide_border=true&card_width=280&theme=transparent&ring=8B7355&fire=8B7355&currStreakLabel=CFC5B5&currStreakNum=CFC5B5&sideLabels=CFC5B5&dates=8F8578" alt="GitHub Streak" />
 
 </td>
 </tr>
