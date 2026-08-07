@@ -65,4 +65,4 @@ Open-source security research, defensive tooling, cybersecurity resources, and s
 
 ---
 
-> *Building reliable software through open source.*
+> *Building reliable software through open source.* <
