@@ -20,23 +20,44 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 ---
 
 #### 🧑‍🤝‍🧑 Organizations
-**📦 [Projects ↗](https://github.com/Projects)** — Building modern open-source software, backend systems, and developer tools.
 
-**🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Open-source security research, offensive tooling, defensive utilities, and resources.
+<table width="100%" cellpadding="8" cellspacing="6">
+<tr>
+<td width="50%" valign="top" style="border:1px solid #8B7355;">
+
+**📦 [Projects ↗](https://github.com/Projects)**
+Open-source software & dev tools
+
+</td>
+<td width="50%" valign="top" style="border:1px solid #8B7355;">
+
+**🛡️ [Open-Sec ↗](https://github.com/Open-Sec)**
+Security research & tooling
+
+</td>
+</tr>
+</table>
 
 ---
 
-#### 🌱 Currently
-Exploring secure API design and threat modeling — always tinkering with something new.
+#### 🖥️ whoami
+
+```bash
+$ whoami
+karlowsmorris — cybersecurity student
+
+$ focus
+secure backend systems, defensive research
+
+$ status
+open to interesting collaborations
+```
 
 </td>
 <td width="38%" valign="top" style="border:3px double #8B7355;">
 
 #### ⚙️ Stack
-<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=3" alt="Tech Stack" />
-
-<img src="https://img.shields.io/badge/-REST%20API-8B7355?style=flat-square&logoColor=white" alt="REST API" />
-<img src="https://img.shields.io/badge/-Networking-8B7355?style=flat-square&logoColor=white" alt="Networking" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=4" alt="Tech Stack" />
 
 ---
 
@@ -49,9 +70,11 @@ Exploring secure API design and threat modeling — always tinkering with someth
 <td colspan="2" align="center" style="border:3px double #8B7355;">
 
 #### ✉️ Let's Talk
-<a href="mailto:karlowsmorris@gmail.com"><img src="https://img.shields.io/badge/Email-8B7355?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/KarlowsMorris"><img src="https://img.shields.io/badge/GitHub-8B7355?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://karlowsmorris.dev"><img src="https://img.shields.io/badge/Portfolio-8B7355?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+**Always up for a conversation about security, code, or ideas.**
+
+<a href="mailto:karlowsmorris@gmail.com"><img src="https://img.shields.io/badge/Email-8B7355?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/KarlowsMorris"><img src="https://img.shields.io/badge/GitHub-8B7355?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://karlowsmorris.dev"><img src="https://img.shields.io/badge/Portfolio-8B7355?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </td>
 </tr>
