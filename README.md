@@ -10,20 +10,14 @@
 
 </div>
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table width="100%" border="1" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
 <tr>
-<td width="62%" valign="top">
-
-<table width="100%" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
-<tr><td>
+<td width="62%" valign="top" style="border:3px double #8B7355;">
 
 #### 📖 About
 Cybersecurity student focused on building secure backend systems, writing clean Python/FastAPI code, and working in Linux environments.
 
-</td></tr>
-</table>
-
-<br/>
+---
 
 #### 🧑‍🤝‍🧑 Organizations
 
@@ -45,38 +39,20 @@ Security research & tooling
 </table>
 
 </td>
-<td width="3%"></td>
-<td width="35%" valign="top">
-
-<table width="100%" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
-<tr><td>
+<td width="38%" valign="top" style="border:3px double #8B7355;">
 
 #### ⚙️ Stack
 <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=4" alt="Tech Stack" />
 
-</td></tr>
-</table>
-
-<br/>
-
-<table width="100%" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
-<tr><td>
+---
 
 #### 🔥 Streak
 <img src="https://streak-stats.demolab.com?user=KarlowsMorris&hide_border=true&card_width=280&theme=transparent&ring=8B7355&fire=8B7355&currStreakLabel=CFC5B5&currStreakNum=CFC5B5&sideLabels=CFC5B5&dates=8F8578" alt="GitHub Streak" />
 
-</td></tr>
-</table>
-
 </td>
 </tr>
 <tr>
-<td colspan="3">
-
-<br/>
-
-<table width="100%" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
-<tr><td align="center">
+<td colspan="2" align="center" style="border:3px double #8B7355;">
 
 #### ✉️ Let's Talk
 **Always up for a conversation about security, code, or ideas.**
@@ -85,9 +61,6 @@ Security research & tooling
 <a href="https://github.com/KarlowsMorris"><img src="https://img.shields.io/badge/GitHub-8B7355?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://karlowsmorris.dev"><img src="https://img.shields.io/badge/Portfolio-8B7355?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
-</td></tr>
-</table>
-
 </td>
 </tr>
 </table>
@@ -95,5 +68,7 @@ Security research & tooling
 <div align="center">
 
 *Building reliable software through open source.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191919,100:8B7355&height=100&section=footer" alt="footer wave" />
 
 </div>
