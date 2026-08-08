@@ -12,7 +12,7 @@
 
 <table width="100%" border="1" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
 <tr>
-<td width="62%" valign="top" style="border:3px double #8B7355;">
+<td width="45%" valign="top" style="border:3px double #8B7355;">
 
 #### 📖 About
 Cybersecurity student focused on building secure backend systems, writing clean Python/FastAPI code, and working in Linux environments.
@@ -20,26 +20,12 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 ---
 
 #### 🧑‍🤝‍🧑 Organizations
+**📦 [Projects ↗](https://github.com/Projects)** — Open-source software & dev tools
 
-<table width="100%" cellpadding="10" cellspacing="6">
-<tr>
-<td width="50%" valign="top" style="border:3px double #8B7355;">
-
-**📦 [Projects ↗](https://github.com/Projects)**
-Open-source software & dev tools
+**🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Security research & tooling
 
 </td>
-<td width="50%" valign="top" style="border:3px double #8B7355;">
-
-**🛡️ [Open-Sec ↗](https://github.com/Open-Sec)**
-Security research & tooling
-
-</td>
-</tr>
-</table>
-
-</td>
-<td width="38%" valign="top" style="border:3px double #8B7355;">
+<td width="55%" valign="top" style="border:3px double #8B7355;">
 
 #### ⚙️ Stack
 <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=4" alt="Tech Stack" />
@@ -47,7 +33,7 @@ Security research & tooling
 ---
 
 #### 🔥 Streak
-<img src="https://streak-stats.demolab.com?user=KarlowsMorris&hide_border=true&card_width=280&theme=transparent&ring=8B7355&fire=8B7355&currStreakLabel=CFC5B5&currStreakNum=CFC5B5&sideLabels=CFC5B5&dates=8F8578" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=KarlowsMorris&hide_border=true&card_width=320&theme=transparent&ring=8B7355&fire=8B7355&currStreakLabel=CFC5B5&currStreakNum=CFC5B5&sideLabels=CFC5B5&dates=8F8578" alt="GitHub Streak" />
 
 </td>
 </tr>
@@ -68,7 +54,5 @@ Security research & tooling
 <div align="center">
 
 *Building reliable software through open source.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191919,100:8B7355&height=100&section=footer" alt="footer wave" />
 
 </div>
