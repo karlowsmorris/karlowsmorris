@@ -33,7 +33,10 @@ Exploring secure API design and threat modeling — always tinkering with someth
 <td width="38%" valign="top" style="border:3px double #8B7355;">
 
 #### ⚙️ Stack
-<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,linux,git,docker&perline=3" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=3" alt="Tech Stack" />
+
+<img src="https://img.shields.io/badge/-REST%20API-8B7355?style=flat-square&logoColor=white" alt="REST API" />
+<img src="https://img.shields.io/badge/-Networking-8B7355?style=flat-square&logoColor=white" alt="Networking" />
 
 ---
 
