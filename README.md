@@ -12,7 +12,7 @@
 
 <table width="100%" border="1" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
 <tr>
-<td width="50%" valign="top" style="border:3px double #8B7355;">
+<td width="50%" valign="top" align="center" style="border:3px double #8B7355;">
 
 #### <span style="color:#E3A857;">📖 About</span>
 Cybersecurity student focused on building secure backend systems, writing clean Python/FastAPI code, and working in Linux environments.
@@ -25,7 +25,7 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 **🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Security research & tooling
 
 </td>
-<td width="50%" valign="top" style="border:3px double #8B7355;">
+<td width="50%" valign="top" align="center" style="border:3px double #8B7355;">
 
 #### <span style="color:#E3A857;">⚙️ Stack</span>
 <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=4" alt="Tech Stack" />
