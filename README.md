@@ -10,42 +10,69 @@
 
 </div>
 
-<table width="100%" border="1" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td width="45%" valign="top" style="border:3px double #8B7355;">
+<td width="45%" valign="top">
 
-#### 📖 About
+<table width="100%" cellpadding="12" cellspacing="0" style="border:3px double #8B7355;">
+<tr><td>
+
+#### <span style="color:#E3A857;">📖 About</span>
 Cybersecurity student focused on building secure backend systems, writing clean Python/FastAPI code, and working in Linux environments.
 
----
+</td></tr>
+</table>
 
-#### 🧑‍🤝‍🧑 Organizations
+<table width="100%" cellpadding="12" cellspacing="0" style="border:3px double #8B7355;">
+<tr><td>
+
+#### <span style="color:#E3A857;">🧑‍🤝‍🧑 Organizations</span>
 **📦 [Projects ↗](https://github.com/Projects)** — Open-source software & dev tools
 
 **🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Security research & tooling
 
-</td>
-<td width="55%" valign="top" style="border:3px double #8B7355;">
+</td></tr>
+</table>
 
-#### ⚙️ Stack
+</td>
+<td width="3%"></td>
+<td width="52%" valign="top">
+
+<table width="100%" cellpadding="12" cellspacing="0" style="border:3px double #8B7355;">
+<tr><td>
+
+#### <span style="color:#E3A857;">⚙️ Stack</span>
 <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=4" alt="Tech Stack" />
 
----
+</td></tr>
+</table>
 
-#### 🔥 Streak
+<table width="100%" cellpadding="12" cellspacing="0" style="border:3px double #8B7355;">
+<tr><td>
+
+#### <span style="color:#E3A857;">🔥 Streak</span>
 <img src="https://streak-stats.demolab.com?user=KarlowsMorris&hide_border=true&card_width=320&theme=transparent&ring=8B7355&fire=8B7355&currStreakLabel=CFC5B5&currStreakNum=CFC5B5&sideLabels=CFC5B5&dates=8F8578" alt="GitHub Streak" />
+
+</td></tr>
+</table>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center" style="border:3px double #8B7355;">
+<td colspan="3">
 
-#### ✉️ Let's Talk
+<table width="100%" cellpadding="12" cellspacing="0" style="border:3px double #8B7355;">
+<tr><td align="center">
+
+#### <span style="color:#E3A857;">✉️ Let's Talk</span>
 **Always up for a conversation about security, code, or ideas.**
 
 <a href="mailto:karlowsmorris@gmail.com"><img src="https://img.shields.io/badge/Email-8B7355?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/KarlowsMorris"><img src="https://img.shields.io/badge/GitHub-8B7355?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://karlowsmorris.dev"><img src="https://img.shields.io/badge/Portfolio-8B7355?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</td></tr>
+</table>
 
 </td>
 </tr>
