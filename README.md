@@ -1,14 +1,16 @@
 <div align="center">
 
-# KARLOWS MORRIS
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:191919,100:8B7355&height=150&section=header&text=KARLOWS%20MORRIS&fontSize=40&fontColor=F5E9DA&animation=fadeIn&fontAlignY=38" alt="header banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=E3A857&center=true&vCenter=true&width=460&lines=Building+secure+backend+systems;Open-source+developer+tools;Defensive+security+research" alt="Typing animation" />
 
 **Building thoughtful software, one repository at a time.**
 
+<img src="https://komarev.com/ghpvc/?username=KarlowsMorris&label=Profile+Views&color=8B7355&style=flat-square" alt="Profile views" />
+
 </div>
 
-<table width="100%" border="1" cellpadding="12" cellspacing="0" style="border:3px double #8B7355;">
+<table width="100%" border="1" cellpadding="10" cellspacing="0" style="border:3px double #8B7355;">
 <tr>
 <td width="62%" valign="top" style="border:3px double #8B7355;">
 
@@ -21,6 +23,11 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 **📦 [Projects ↗](https://github.com/Projects)** — Building modern open-source software, backend systems, and developer tools.
 
 **🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Open-source security research, offensive tooling, defensive utilities, and resources.
+
+---
+
+#### 🌱 Currently
+Exploring secure API design and threat modeling — always tinkering with something new.
 
 </td>
 <td width="38%" valign="top" style="border:3px double #8B7355;">
