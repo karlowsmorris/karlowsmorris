@@ -26,6 +26,8 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 
 **🎮** [**Karlows Studios ↗**](https://github.com/Karlows-Studios) — Games & interactive projects
 
+**🧪** [**Stupid-Apps ↗**](https://github.com/Stupid-Apps) — Experimental apps, weird ideas & useful software
+
 </td>
 <td width="50%" valign="top" align="center" style="border:3px double #8B7355;">
 
