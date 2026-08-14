@@ -24,6 +24,8 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 
 **🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Security research & tooling
 
+**🎮** [**Karlows Studios ↗**](https://github.com/Karlows-Studios) — Games & interactive projects
+
 </td>
 <td width="50%" valign="top" align="center" style="border:3px double #8B7355;">
 
