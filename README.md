@@ -49,7 +49,7 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 
 <a href="mailto:karlowsmorris@gmail.com"><img src="https://img.shields.io/badge/Email-8B7355?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/KarlowsMorris"><img src="https://img.shields.io/badge/GitHub-8B7355?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://karlows.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-8B7355?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://karlows.is-a.dev" target="blank"><img src="https://img.shields.io/badge/Portfolio-8B7355?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 </td>
 </tr>
