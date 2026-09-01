@@ -6,6 +6,8 @@
 
 <strong>Building thoughtful software, one repository at a time.</strong>
 
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=KarlowsMorris&label=Profile+Views&color=8B7355&style=flat-square" alt="Profile views" />
 
 </div>
@@ -14,31 +16,31 @@
 <tr>
 <td width="50%" valign="top" align="center" style="border:3px double #8B7355;">
 
-#### <span style="color:#E3A857;">ðŸ“– About</span>
+### <span style="color:#E3A857;">📖 About</span>
 
 Cybersecurity student focused on building secure backend systems, writing clean Python/FastAPI code, and working in Linux environments.
 
----
+<hr>
 
-#### <span style="color:#E3A857;">ðŸ§‘â€ðŸ¤â€ðŸ§‘ Organizations</span>
+### <span style="color:#E3A857;">🧑‍🤝‍🧑 Organizations</span>
 
-**ðŸ“¦ [Projects â†—](https://github.com/Projects)** â€” Open-source software & dev tools
+**📦 [Projects ↗](https://github.com/Projects)** — Open-source software & dev tools
 
-**ðŸ›¡ï¸ [Open-Sec â†—](https://github.com/Open-Sec)** â€” Security research & tooling projects
+**🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Security research & tooling projects
 
-**ðŸ­ðŸª² [BugFactory â†—](https://github.com/BugFactory)** â€” We don't make mistakes, we just create unexpected features.
+**🏭 [BugFactory ↗](https://github.com/BugFactory)** — We don't make mistakes, we just create unexpected features.
 
 </td>
 
 <td width="50%" valign="top" align="center" style="border:3px double #8B7355;">
 
-#### <span style="color:#E3A857;">âš™ï¸ Stack</span>
+### <span style="color:#E3A857;">⚙️ Stack</span>
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=4" alt="Tech Stack" />
 
----
+<hr>
 
-#### <span style="color:#E3A857;">ðŸ”¥ Streak</span>
+### <span style="color:#E3A857;">🔥 Streak</span>
 
 <img src="https://streak-stats.demolab.com?user=KarlowsMorris&hide_border=true&card_width=320&theme=transparent&ring=8B7355&fire=8B7355&currStreakLabel=CFC5B5&currStreakNum=CFC5B5&sideLabels=CFC5B5&dates=8F8578" alt="GitHub Streak" />
 
@@ -48,9 +50,11 @@ Cybersecurity student focused on building secure backend systems, writing clean 
 <tr>
 <td colspan="2" align="center" style="border:3px double #8B7355;">
 
-#### <span style="color:#E3A857;">âœ‰ï¸ Let's Talk</span>
+### <span style="color:#E3A857;">✉️ Let's Talk</span>
 
 <strong>Always up for a conversation about security, code, or ideas.</strong>
+
+<br><br>
 
 <a href="mailto:karlowsmorris@gmail.com">
 <img src="https://img.shields.io/badge/Email-8B7355?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
