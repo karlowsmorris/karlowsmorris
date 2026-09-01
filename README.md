@@ -18,21 +18,23 @@
 Cybersecurity student focused on building secure backend systems, writing clean Python/FastAPI code, and working in Linux environments.
 
 ---
-
 #### <span style="color:#E3A857;">🧑‍🤝‍🧑 Organizations</span>
 **📦 [Projects ↗](https://github.com/Projects)** — Open-source software & dev tools
 
-**🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Security research & tooling
+**🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Security research & tooling projects
 
-**🎮** [**Karlows Studios ↗**](https://github.com/Karlows-Studios) — Games & interactive projects
-
-**🧪** [**Stupid-Apps ↗**](https://github.com/Stupid-Apps) — Experimental apps, weird ideas & useful software
+**🏭🪲 [BugFactory ↗](https://github.com/BugFactory)** — We don't make mistakes, we just create unexpected features.
 
 </td>
 <td width="50%" valign="top" align="center" style="border:3px double #8B7355;">
 
 #### <span style="color:#E3A857;">⚙️ Stack</span>
-<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=4" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nextjs,nodejs,git,docker,linux,aws&perline=4" alt="Tech Sta#### <span style="color:#E3A857;">🧑‍🤝‍🧑 Organizations</span>
+**📦 [Projects ↗](https://github.com/Projects)** — Open-source software & dev tools
+
+**🛡️ [Open-Sec ↗](https://github.com/Open-Sec)** — Security research & tooling projects
+
+**⚠️** [**BugFactory ↗**.(https://github.com/BugFactory) — We don't make mistakes, we just create unexpected features.ck" />
 
 ---
 
